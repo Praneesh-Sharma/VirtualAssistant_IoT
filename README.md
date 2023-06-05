@@ -1,4 +1,4 @@
-# Virtual Assistant using Python and OpenAI GPT API
+# Virtual Assistant
 
 This project is a AI based voice assistant that used OpenAI GPT API to answer user queries, as well as returning live weaher dat and controlling the lights using multiple sensors and microprocessors.
 
