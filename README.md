@@ -1,6 +1,6 @@
 # Virtual Assistant
 
-This project is a AI based voice assistant that used OpenAI GPT API to answer user queries, as well as returning live weaher dat and controlling the lights using multiple sensors and microprocessors.
+This project is a AI based voice assistant that uses OpenAI GPT API to answer user queries, as well as returning live weaher data and controlling the lights using multiple sensors and microprocessors.
 
 ## Getting Started
 
